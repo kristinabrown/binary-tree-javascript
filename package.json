@@ -1,0 +1,20 @@
+{
+  "name": "binary-search-trees",
+  "version": "0.0.1",
+  "description": "DSA is awesome1",
+  "main": "lib/binary-search-tree.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "kristina brown",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
